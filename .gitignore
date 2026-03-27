@@ -24,3 +24,10 @@ Homestead.yaml
 Thumbs.db
 npm-debug.log
 yarn-error.log
+
+# SQLite Database
+/database/*.sqlite
+/database/*.sqlite-journal
+
+# Documentos generados (opcional)
+/public/reportes/*.pdf

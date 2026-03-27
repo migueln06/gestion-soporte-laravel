@@ -1,4 +1,4 @@
-# 🛠️ Sistema de Gestión de Inventario para Soporte Técnico
+# 🛠️ Sistema de Gestión de Inventario para Soporte Técnico | By: Miguel Netti
 Desarrollado con **Laravel 11**, **Bootstrap 5** y **DomPDF**.
 
 ### 🌟 Funcionalidades Clave:
